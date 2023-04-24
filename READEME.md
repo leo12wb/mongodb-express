@@ -1,6 +1,6 @@
 
 <p align="center" style="background-color:#fff">
-  <a href="https://nodejs.org/" target="blank"><img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/Y6CTsYdHM2L7rcnrUqK8ZgVq" width="200" alt="Node Logo" /></a>
+  <a href="https://nodejs.org/" target="blank"><img src="https://nodejs.org/static/images/logo.svg" width="200" alt="Node Logo" /></a>
 </p>
 
 ## Project
