@@ -1,6 +1,6 @@
 
 <p align="center" style="background-color:#fff">
-  <a href="https://nodejs.org/" target="blank"><img src="[https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress](https://community-cdn-digitalocean-com.global.ssl.fastly.net/Y6CTsYdHM2L7rcnrUqK8ZgVq)" width="200" alt="Node Logo" /></a>
+  <a href="https://nodejs.org/" target="blank"><img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/Y6CTsYdHM2L7rcnrUqK8ZgVq" width="200" alt="Node Logo" /></a>
 </p>
 
 ## Project
